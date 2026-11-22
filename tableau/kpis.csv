@@ -1,0 +1,3 @@
+member_casual,share_of_rides,median_ride_min,rides_over_30_min,weekend_share,weekday_am_pm_peak_share,round_trip_share_station,median_speed_km_h_atob,e_bike_share,summer_jun_aug_share,winter_dec_feb_share,commute_like_and_utility_share
+member,0.6473,8.6773,0.0537,0.2371,0.4568,0.0221,12.1398,0.692,0.3669,0.0949,0.7185
+casual,0.3527,11.0914,0.1317,0.3763,0.3049,0.0737,10.4725,0.754,0.4525,0.0421,0.5371

@@ -1,0 +1,5 @@
+ride_purpose,rides,median_minutes,avg_cost_as_casual,avg_cost_as_member,avg_saving_per_ride,breakeven_rides_per_year,breakeven_rides_per_month,breakeven_rides_per_month_promo_99
+Commute-like,585813,9.14,5.31,1.75,3.57,40.36,3.36,2.31
+Utility,575210,9.27,5.37,1.75,3.61,39.82,3.32,2.28
+Leisure,1000615,15.23,9.69,3.78,5.9,24.37,2.03,1.4
+All casual rides,2161638,11.09,7.35,2.69,4.66,30.87,2.57,1.77
