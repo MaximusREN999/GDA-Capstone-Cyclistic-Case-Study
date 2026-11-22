@@ -1,6 +1,7 @@
 # Cyclistic Bike-Share: Converting Casual Riders into Annual Members
 
-Google Data Analytics Professional Certificate, Capstone Case Study 1
+**Google Data Analytics Professional Certificate · Capstone Case Study 1**
+
 Python (pandas, matplotlib) · Tableau Public · 6.1 million trips · November 2025 to October 2026
 
 - **Interactive dashboard:** [Tableau Public](TABLEAU-PUBLIC-LINK-HERE, in progress)
