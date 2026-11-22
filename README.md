@@ -9,6 +9,8 @@ Python (pandas, matplotlib) · Tableau Public · 6.1 million trips · November 2
 
 ## ![Dashboard preview](figures/dashboard_preview.png)
 
+![Where to convert](figures/dashboard_where_to_convert.png)
+
 ## Summary
 
 Casual riders are not one group. **54% of casual trips (about 1.16 million) already look like member trips**: weekday, point-to-point and 30 minutes or less. At 2026 Divvy prices, a casual rider making these trips **breaks even on an annual membership at about 3.4 rides a month** (about 2.3 at the $99 new-member price). Cyclistic should target this member-like segment with personalised savings messages, in spring, at commuter-corridor stations, and lead with e-bike pricing.
