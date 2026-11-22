@@ -4,10 +4,10 @@
 
 Python (pandas, matplotlib) · Tableau Public · 6.1 million trips · November 2025 to October 2026
 
-- **Interactive dashboard:** [Tableau Public](TABLEAU-PUBLIC-LINK-HERE, in progress)
+- **Interactive dashboard:** [Tableau Public](https://public.tableau.com/app/profile/guanlong.max.ren/viz/CyclisticBike-ShareCaseStudy_17953156236340/Howtheyride)
 - **Full analysis:** [`cyclistic_case_study.ipynb`](cyclistic_case_study.ipynb)
 
----
+## ![Dashboard preview](figures/dashboard_preview.png)
 
 ## Summary
 
@@ -108,7 +108,7 @@ The member/casual mix is the same before and after cleaning (64.7% / 35.3%), so 
 
 ## 5. Share
 
-- Interactive dashboard: [Tableau Public](TABLEAU-PUBLIC-LINK-HERE, in progress)
+- Interactive dashboard: [Tableau Public](https://public.tableau.com/app/profile/guanlong.max.ren/viz/CyclisticBike-ShareCaseStudy_17953156236340/Howtheyride)). Two pages: _How they ride_ and _Where to convert_.
 - Static charts: [`figures/`](figures)
 - Tableau-ready aggregated data: [`tableau/`](tableau). These tables are aggregated in Python, so the dashboard uses exactly the same definitions as the notebook.
 
@@ -164,4 +164,4 @@ Weight spend toward **March–May**, when casual riding ramps up and a membershi
 
 ## Author
 
-**Max Ren** · [LinkedIn](https://www.linkedin.com/in/max-ren-data/) · [Tableau Public](XXX)
+**Max Ren** · [LinkedIn](https://www.linkedin.com/in/max-ren-data/) · [Tableau Public](https://public.tableau.com/app/profile/guanlong.max.ren/)
